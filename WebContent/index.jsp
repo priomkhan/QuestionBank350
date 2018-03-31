@@ -20,7 +20,7 @@
 		out.println("Database Not Coonected");
 		
 	}else{
-		out.println("Database Coonection OK");
+		out.println("Database Connection OK");
 		
 	}
 
